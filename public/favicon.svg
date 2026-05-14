@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- dark background -->
+  <rect width="32" height="32" rx="8" fill="#1C1917"/>
+  <!-- amber top bar -->
+  <rect width="32" height="10" rx="4" fill="#D97706"/>
+  <!-- bottom corners of bar should be flat -->
+  <rect width="32" height="5" y="5" fill="#D97706"/>
+  <!-- ET initials -->
+  <text
+    x="16"
+    y="25"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="12"
+    font-weight="bold"
+    fill="white"
+    letter-spacing="1"
+  >ET</text>
+</svg>
